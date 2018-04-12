@@ -1,0 +1,88 @@
+html{
+    background-color: lightgray;
+}
+#main{
+    width: 850px;
+    height: 360px;
+    margin: 0 auto;
+    background-color: green;
+    position: absolute;
+    z-index: -1;
+}
+.nav-bar{
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    margin: 0;
+    padding: 0;
+    border-spacing: 0px;
+}
+#likeb{
+    margin-right: 10px;
+}
+td{
+    padding: 0;
+    margin: 0;
+}
+.nav-button{
+    margin: 0;
+    border: 0;
+    height: 20px;
+}
+#fallout-img{
+    height: 10px;
+    width: 10px;
+}
+body{
+    width: 850px;
+    margin: 0 auto;
+}
+.picbox{
+    height: 180px;
+    width: 180px;
+    background-color: green;
+    border: 1px black solid;
+    position: absolute;
+    top: 220px;
+    left: 15px;
+}
+.whitebox{
+    margin: 0 auto;
+    width: 850px;
+    height: 60px;
+    background-color: white;
+    z-index: -1;
+    position: absolute;
+    top: 360px;
+}
+h1{
+    margin: 0;
+    position: absolute;
+    top: 285px;
+    left: 205px;
+    color: white;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+h2{
+    margin: 0;
+    position: absolute;
+    top: 325px;
+    left: 210px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 1em;
+}
+.options-bar{
+    position: absolute;
+    top: 380px;
+    left: 200px;
+    border-spacing: 0px;
+}
+.options-button{
+    margin: 0px;
+    border-right-width: 2px;
+    height:25px;
+}
